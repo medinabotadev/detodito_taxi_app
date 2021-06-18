@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "994874834475",
+    "project_id": "detoditoapp-b688f",
+    "storage_bucket": "detoditoapp-b688f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994874834475:android:60f62cfc872b417dfef46e",
+        "android_client_info": {
+          "package_name": "com.detodito.business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994874834475-ejrikuuh4jtf2v1o3ju7hicpi3e80hbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5uICq7CXfT5jFjKefIQF9aUHw39FGlmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994874834475-ejrikuuh4jtf2v1o3ju7hicpi3e80hbk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994874834475-1njls6g95h3tohqoddr4rumqqhj38v5n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.detodito.dtcsuperapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994874834475:android:baad5b4866d37393fef46e",
+        "android_client_info": {
+          "package_name": "com.detodito.detodientrega"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994874834475-ejrikuuh4jtf2v1o3ju7hicpi3e80hbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5uICq7CXfT5jFjKefIQF9aUHw39FGlmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994874834475-ejrikuuh4jtf2v1o3ju7hicpi3e80hbk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994874834475-1njls6g95h3tohqoddr4rumqqhj38v5n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.detodito.dtcsuperapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994874834475:android:43722925600323d6fef46e",
+        "android_client_info": {
+          "package_name": "com.detodito.detoditaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994874834475-ejrikuuh4jtf2v1o3ju7hicpi3e80hbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5uICq7CXfT5jFjKefIQF9aUHw39FGlmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994874834475-ejrikuuh4jtf2v1o3ju7hicpi3e80hbk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994874834475-1njls6g95h3tohqoddr4rumqqhj38v5n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.detodito.dtcsuperapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994874834475:android:f36d809d056e0acefef46e",
+        "android_client_info": {
+          "package_name": "com.detodito.ordering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994874834475-ejrikuuh4jtf2v1o3ju7hicpi3e80hbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5uICq7CXfT5jFjKefIQF9aUHw39FGlmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994874834475-ejrikuuh4jtf2v1o3ju7hicpi3e80hbk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994874834475-1njls6g95h3tohqoddr4rumqqhj38v5n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.detodito.dtcsuperapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
